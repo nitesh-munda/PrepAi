@@ -1,38 +1,53 @@
-# CapGen
-Caption generator application
+# PrepAi
+AI powered application for planning
 
 ## Use case
-Capturing the perfect moment is just the first step in preserving memories. Often, finding the right
-caption to complement your photo can be a time-consuming task. To address this, we present an 
-innovative solution: an application that generates suitable captions based on the emotions or tags 
-provided by the user, utilizing the advanced capabilities of Gemini AI.
+App Overview
+This app is designed to help you plan and manage your time effectively, whether you're preparing for an important exam or planning a vacation. It creates a day-by-day schedule based on your needs and reminds you to stay on track. You can also see how much you've accomplished as you go.
 
-This application streamlines the captioning process, allowing users to effortlessly enhance their 
-photos with contextually appropriate and emotionally resonant captions. By analyzing the tags or 
-emotions associated with the image, Gemini AI generates a caption that perfectly matches the 
-sentiment and content of the photo.
+What the App Does
+Tell the App What You Need:
 
-This not only saves users valuable time but also ensures that their photos are shared with captions
-that truly reflect the essence of the moment. Whether it's a joyous celebration, a serene landscape,
-or a candid moment, our application delivers the perfect words to accompany the image.
+Whether you’re studying for an exam or planning a vacation, start by telling the app what you need help with.
+Get a Daily Plan:
 
-Key Features:
-Emotion and Tag-Based Analysis: Users can input tags or emotions, and Gemini AI will analyze these 
-inputs to generate a fitting caption.
-Time Efficiency: Quickly obtain suitable captions without the need to search the internet.
-Contextual Accuracy: Captions are generated to accurately reflect the mood and context of the photo.
-User-Friendly Interface: Intuitive and easy-to-use interface ensures a seamless experience.
-This application is ideal for social media enthusiasts, photographers, and anyone looking to enhance
-their photo-sharing experience with minimal effort. By leveraging the power of AI, we bring a new 
-level of personalization and convenience to photo captioning.
+The app will create a detailed daily schedule just for you, so you know exactly what to do each day to reach your goal.
+Stay on Track:
 
-## Privacy and Security
-1. Image Handling: We do not store users' images or access their photos without explicit consent 
-   and permission.
-2. Permission-Based Access: The application only processes the image that the user has selected and
-   granted permission for.
-3. Secure Data Transmission: Images are processed through an encrypted HTTPS call to obtain tags 
-   from Gemini APIs, ensuring data security and user privacy. 
+You’ll receive reminders to keep you focused on your tasks or plans.
+Track Your Progress:
+
+As you complete tasks or activities, the app will show you how much you’ve done and what’s left.
+Supported Plans
+1. Exam Preparation
+What You Need to Provide:
+The topics you need to study
+The date of your exam
+How difficult each topic is for you
+How much time you have each day for studying
+How It Helps:
+The app will prioritize your study topics based on their difficulty and the time you have left before the exam. It’ll help you focus on what’s most important.
+2. Vacation Planning
+What You Need to Provide:
+Where you’re going and where you’re starting from
+What type of vacation you want (Relaxing, Socializing, Partying, Food-focused)
+How long your vacation is
+Your budget (Economical or Luxurious)
+How It Helps:
+The app will help you organize your travel and activities based on what you want to do and how much you want to spend. It’ll make sure you have time for everything you enjoy.
+How It Works
+Input Your Details:
+
+Answer a few simple questions about your exam or vacation.
+Get Your Schedule:
+
+The app will instantly create a plan for each day, tailored to your needs.
+Stay Notified:
+
+Receive gentle reminders to keep you on track.
+See Your Progress:
+
+Check off tasks as you complete them and watch your progress grow.
 
 ### Developers
 [Sakshi Pandey](https://www.linkedin.com/in/sakshi-pandey-ba23802b5/)
